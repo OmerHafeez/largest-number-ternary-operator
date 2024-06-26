@@ -1,0 +1,3 @@
+Write a C++ program that gives the largest number using ternary operator among:
+1. Three Numbers that is if three numbers are taken as input form user.
+2. Four Numbers that is if four numbers are taken as input form user.
